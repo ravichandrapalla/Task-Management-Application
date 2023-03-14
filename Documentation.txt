@@ -1,0 +1,11 @@
+Installation
+To install this task management application, a computer with Node.js and npm installed is required.
+ Follow these steps to install:
+
+Clone the repository from GitHub: git clone https://github.com/ravichandrapalla/Task-Management-Application.git
+Install dependencies: npm install (in both frontend and backend)
+Navigate to the main directory (for both frontend and backend)  and run npm run dev in both frontend and backend source folder.
+
+Architecture and Design
+build using node for backend and react for frontend. and used scss for frontend styles
+
